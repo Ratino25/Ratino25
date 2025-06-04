@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 💼 Currently working at **@Astragraphia**
-- 🌱 Actively learning **Java**, **Laravel**, **Python**, and **JavaScript**
+- 🌱 Actively learning **Java**, **Laravel**, **Python**, **JavaScript**, and Artificial Intelligence
 - 🛠️ Interested in **web development**, **automation**, and **clean code**
 - 💬 Open to collaboration and discussions about development best practices
 
